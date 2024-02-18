@@ -10,7 +10,7 @@ The AtliQ Hardware Customer Net Sales Report for the years 2019, 2020, and 2021 
     **1.** Create a _[Customer performance report](https://github.com/datawithrishabh/AtliQ-Hardware-Sales-and-Finance-Analytics-Project/blob/main/Final%20Reports/Customer%20Performance%20Report.pdf)_
 
 
-    **2.** Conduct a comprehensive comparison between _[Market performance and sales targets](https://github.com/kd1811/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)_
+    **2.** Conduct a comprehensive comparison between _[Market performance and sales targets](https://github.com/datawithrishabh/AtliQ-Hardware-Sales-and-Finance-Analytics-Project/blob/main/Final%20Reports/Market%20Performance%20Report.pdf)_
   
     **3.** Create a Sales Report for AtliQ Hardware
 
