@@ -1,4 +1,4 @@
-# AtliQ-Hardware-Sales-and-Finance-Analytics-Project.
+# AtliQ-Hardware-Sales-and-Finance-Analytics-Project
 This is an Excel project to analyze sales and finance data for AtliQ Hardware to identify trends, assess performance, and support strategic decision-making.
 
 ## Sales Report :
